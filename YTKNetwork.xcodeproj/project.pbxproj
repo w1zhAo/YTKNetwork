@@ -219,6 +219,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		20A1E6402BEB5D8400000250 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		2D244E091D4ED6470031202D /* YTKNetwork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YTKNetwork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D244E0C1D4ED6470031202D /* YTKNetwork.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YTKNetwork.h; sourceTree = "<group>"; };
 		2D244E0E1D4ED6470031202D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = ../Framework/Info.plist; sourceTree = "<group>"; };
@@ -377,6 +378,7 @@
 		2D244E0B1D4ED6470031202D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				20A1E6402BEB5D8400000250 /* PrivacyInfo.xcprivacy */,
 				2D244E0C1D4ED6470031202D /* YTKNetwork.h */,
 				2D244E0E1D4ED6470031202D /* Info.plist */,
 			);
@@ -731,6 +733,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 2D244DFF1D4ED6460031202D;
